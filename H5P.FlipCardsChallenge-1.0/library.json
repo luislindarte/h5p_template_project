@@ -1,0 +1,25 @@
+{
+  "title": "Flip Cards Challenge",
+  "description": "Juego de cartas H5P con score acumulativo.",
+  "majorVersion": 1,
+  "minorVersion": 0,
+  "patchVersion": 0,
+  "runnable": 1,
+  "author": "Luis",
+  "license": "MIT",
+  "machineName": "H5P.FlipCardsChallenge",
+  "coreApi": {
+    "majorVersion": 1,
+    "minorVersion": 24
+  },
+  "preloadedJs": [
+    {
+      "path": "scripts/flip-cards.js"
+    }
+  ],
+  "preloadedCss": [
+    {
+      "path": "styles/flip-cards.css"
+    }
+  ]
+}

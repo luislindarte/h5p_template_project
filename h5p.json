@@ -1,0 +1,14 @@
+{
+  "title": "Flip Cards Challenge",
+  "language": "en",
+  "mainLibrary": "H5P.FlipCardsChallenge",
+  "embedTypes": ["div"],
+  "license": "MIT",
+  "preloadedDependencies": [
+    {
+      "machineName": "H5P.FlipCardsChallenge",
+      "majorVersion": 1,
+      "minorVersion": 0
+    }
+  ]
+}

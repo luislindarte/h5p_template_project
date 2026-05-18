@@ -1,0 +1,8 @@
+[
+  {
+    "name": "title",
+    "type": "text",
+    "label": "Título",
+    "default": "Flip Cards Challenge"
+  }
+]
